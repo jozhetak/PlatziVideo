@@ -1,0 +1,20 @@
+.Category {
+  margin-bottom: 1em;
+}
+
+.title{
+  padding-right: 10px;
+  margin: 0;
+  font-family: 'Roboto Slab', serif;
+  color: #F72D43;
+  display: inline-block;
+}
+
+.description{
+  padding-bottom: 20px;
+  font-family: 'Ranga', cursive;
+  font-size: 18px;
+  font-weight: lighter;
+  color: #B64B75;
+  display: inline-block;
+}

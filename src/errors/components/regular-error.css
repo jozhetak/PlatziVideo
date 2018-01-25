@@ -1,0 +1,20 @@
+.regultarError{
+  position: absolute;
+  top:50%;
+  left:50%;
+  width:450px;
+  margin-left:-200px;
+  height:300px;
+  margin-top:-150px;
+}
+
+.regularErrorIcons{
+  text-align: center;
+}
+
+.regularErrorDescription{
+  text-align: center;
+  color: #797979;
+  font-size: 25px;
+  font-family: 'Roboto Slab', serif;
+}
